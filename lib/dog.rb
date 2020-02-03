@@ -1,4 +1,4 @@
 class Dog 
-  def name 
+  def initi name 
     
 end
